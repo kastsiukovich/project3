@@ -1,0 +1,17 @@
+.menu li a {
+  color: red;
+}
+
+.container1 .auth .sign_up {
+  text-decoration: none;
+  font-size: 50px;
+  line-height: 70px;
+  color: red;
+  padding: 11px 53px;
+  border: 1px solid #465B95;
+  border-radius: 68px;
+  margin-left: 40px;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+/*# sourceMappingURL=style.css.map */
